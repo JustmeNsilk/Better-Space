@@ -55,4 +55,4 @@ It was created mainly to explore Terraria’s modding architecture and experimen
 
 ## 👤 Author
 
-Personal learning project.
+Justme&silk
